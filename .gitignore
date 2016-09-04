@@ -1,0 +1,16 @@
+# Mac
+.DS_Store/
+
+# SBT
+project/project/
+project/target/
+target/
+
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Miscellaneous
+logs/
